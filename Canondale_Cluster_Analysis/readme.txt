@@ -1,0 +1,1 @@
+The dataset contains bicycle orders. The first data table bikes.xlsx contains information about various bike models. The second data table bikeshops.xlsx contains information about bike shops. And the third data table orders.xlsx contains the actual order histories with the manufacturer Cannondale.
